@@ -10,5 +10,5 @@ a game log recording every hand and try excepts, etc.
 
 The code leaves a lot to be desired as I am still learning.
 
-For more info on this project:
+For more info:
 https://stevepython.wordpress.com/2019/09/04/python-video-poker-machine
