@@ -10,5 +10,6 @@ The code leaves a lot to be desired as I am still learning.
 
 For more info:
 https://stevepython.wordpress.com/2019/09/04/python-video-poker-machine
-and
+
+
 https://stevepython.wordpress.com/2020/04/24/gui-poker-machine-v1-2-update
