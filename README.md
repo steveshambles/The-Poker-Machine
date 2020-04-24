@@ -8,6 +8,9 @@ a game log recording every hand and try excepts, etc.
 
 The code leaves a lot to be desired as I am still learning.
 
+![Alt text](https://stevepython.files.wordpress.com/2020/04/oker-macine-v1-2-ss1.png)
+
+
 For more info:
 https://stevepython.wordpress.com/2019/09/04/python-video-poker-machine
 
