@@ -2,7 +2,7 @@
 A full GUI video poker machine for Windows and Linux written in Python.
 
 
-![Alt text](https://stevepython.files.wordpress.com/2020/04/oker-macine-v1-2-ss1.png"Optional title")
+![Alt text]("https://stevepython.files.wordpress.com/2020/04/oker-macine-v1-2-ss1.png")
 
 This still needs some work on it to make it more playable, like sound fx,
 a better way of reporting the result of the hand, i.e not using a message box,
