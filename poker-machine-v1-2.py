@@ -55,7 +55,7 @@ class Pok:
 
     no_card_holding = True
 
-    plyr_credits = 10
+    plyr_credits = 100
     plyr_winnings = 0
     plyr_stake = 1
 
